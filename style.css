@@ -1,0 +1,17 @@
+body{
+    
+    background-color: rgb(149, 199, 232);
+}
+.CLOCK{
+    position: absolute;
+    border: 1px  cadetblue dotted ;
+    color: rgb(133, 232, 133) !important;
+    top: 50% !important;
+    left: 50% !important;
+    transform: translateX(-50%)translateY(-50%) !important;
+    font-size: 60px !important;
+    font-family:'Times New Roman', Times, serif;
+    letter-spacing:  7px; 
+    filter: drop-shadow(5px 5px 0 red) hue-rotate(180deg) ;
+
+}
